@@ -1,9 +1,5 @@
 # Neural-Machine-Translation
-Sure, here's a comprehensive README for your project:
 
----
-
-# Transformer-Based Language Model
 
 ## Overview
 
